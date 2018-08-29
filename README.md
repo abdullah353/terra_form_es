@@ -28,7 +28,7 @@ terraform plan terra_form_es/
 This will actually create instances for us on AWS.
 
 ```bash
-terraform plan terra_form_es/
+terraform apply terra_form_es/
 ```
 ### Destroy The Plan
 
